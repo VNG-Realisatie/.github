@@ -1,14 +1,6 @@
 # VNG Realisatie GitHub repositories
 
-VNG Realisatie heeft een groot aantal GitHub repositories. Elke repository is gerelateerd aan één of meer topics zoals:
-* API-specificaties;
-* StUF;
-* GEMMA;
-* Architectuur;
-* Archimate;
-* etc...
-
-Hieronder vind je per topic links naar een of meerdere belangrijke repositories en/of een link naar een overzicht van alle bij de topic behorende repositories.
+VNG Realisatie beheert standaard-specificaties en de GEMMA architectuur voor gemeenten.
 
 | API-Specificaties| StUF en StUF gerelateerde Standaarden | Archimate |
 | --- | --- | --- |
@@ -17,4 +9,13 @@ Hieronder vind je per topic links naar een of meerdere belangrijke repositories 
 | [Haal Centraal](https://github.com/VNG-Realisatie/Haal-Centraal/) - [_GitHub Pages_](https://vng-realisatie.github.io/Haal-Centraal/) | [StUF-ZKN](https://github.com/VNG-Realisatie/StUF-ZKN) - [_GitHub Pages_](https://vng-realisatie.github.io/StUF-ZKN) |  |
 |  | [StUF-ZTC](https://github.com/VNG-Realisatie/StUF-ZTC) - [_GitHub Pages_](https://vng-realisatie.github.io/StUF-ZTC) |  |
 |  |  |  |
-| **[Alle API-specificatie repositories](https://github.com/search?q=org%3AVNG-Realisatie+topic%3Aapi-specification&type=repositories)** | **[Alle StUF repositories](https://github.com/search?q=org%3AVNG-Realisatie+topic%3Astuf&type=repositories)** | **[Alle Archimate repositories](https://github.com/search?q=org%3AVNG-Realisatie+topic%3Aarchimate&type=repositories)** |
+| **[Alle API-specificatie repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+topic%3Aapi-specification&type=repositories)** | **[Alle StUF repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+topic%3Astuf&type=repositories)** | **[Alle Archimate repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+topic%3Aarchimate&type=repositories)** |
+
+Aanvullend zijn er diverse ontwikkelingen op het gebied van standaarden en Common Ground.
+
+|Overige repositories|
+| --- |
+| [NLX](https://github.com/VNG-Realisatie/nlx) | 
+| [Burgerpeiling](https://github.com/VNG-Realisatie/Burgerpeiling) |
+|  |
+| **[Alle overige repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+-topic%3Aapi-specification+-topic%3Aarchimate+-topic%3Astuf&type=repositories)** |
