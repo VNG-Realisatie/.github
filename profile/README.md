@@ -13,9 +13,9 @@ VNG Realisatie beheert standaard-specificaties en de GEMMA architectuur voor gem
 
 Aanvullend zijn er diverse ontwikkelingen op het gebied van standaarden en Common Ground.
 
-|Overige repositories|
-| --- |
-| [NLX](https://github.com/VNG-Realisatie/nlx) | 
-| [Burgerpeiling](https://github.com/VNG-Realisatie/Burgerpeiling) |
-|  |
-| **[Alle overige repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+-topic%3Aapi-specification+-topic%3Aarchimate+-topic%3Astuf&type=repositories)** |
+| Informatiemodellen |Overige repositories|
+| --- | --- |
+| [RSGB](https://github.com/VNG-Realisatie/RSGB) | [NLX](https://github.com/VNG-Realisatie/nlx) | 
+| [RGBZ](https://github.com/VNG-Realisatie/RGBZ) | [Burgerpeiling](https://github.com/VNG-Realisatie/Burgerpeiling) |
+| [ImZTC](https://github.com/VNG-Realisatie/ImZTC) |  |
+|  | **[Alle overige repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+-topic%3Aapi-specification+-topic%3Aarchimate+-topic%3Astuf&type=repositories)** |
