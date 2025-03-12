@@ -17,5 +17,7 @@ Aanvullend zijn er diverse ontwikkelingen op het gebied van standaarden en Commo
 | --- |
 | [NLX](https://github.com/VNG-Realisatie/nlx) | 
 | [Burgerpeiling](https://github.com/VNG-Realisatie/Burgerpeiling) |
+| [ftv](https://github.com/VNG-Realisatie/ftv) |
+| [authzen-nlgov](https://github.com/VNG-Realisatie/authzen-nlgov) |
 |  |
 | **[Alle overige repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+-topic%3Aapi-specification+-topic%3Aarchimate+-topic%3Astuf&type=repositories)** |
