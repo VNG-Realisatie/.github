@@ -15,7 +15,6 @@ Aanvullend zijn er diverse ontwikkelingen op het gebied van standaarden en Commo
 
 | Overige repositories |
 | --- |
-| [NLX](https://github.com/VNG-Realisatie/nlx) | 
 | [Burgerpeiling](https://github.com/VNG-Realisatie/Burgerpeiling) |
 | [ftv](https://github.com/VNG-Realisatie/ftv) |
 | [authzen-nlgov](https://github.com/VNG-Realisatie/authzen-nlgov) |
