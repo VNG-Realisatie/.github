@@ -9,7 +9,7 @@ VNG Realisatie beheert standaard-specificaties en de GEMMA architectuur voor gem
 | [ImZTC](https://github.com/VNG-Realisatie/ImZTC) | [Haal Centraal](https://github.com/VNG-Realisatie/Haal-Centraal/) - [_GitHub Pages_](https://vng-realisatie.github.io/Haal-Centraal/) | [StUF-ZKN](https://github.com/VNG-Realisatie/StUF-ZKN) - [_GitHub Pages_](https://vng-realisatie.github.io/StUF-ZKN) |  |
 | |  | [StUF-ZTC](https://github.com/VNG-Realisatie/StUF-ZTC) - [_GitHub Pages_](https://vng-realisatie.github.io/StUF-ZTC) |  |
 |  |  |  |
-| | **[Alle API-specificatie repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+topic%3Aapi-specification&type=repositories)** | **[Alle StUF repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+topic%3Astuf&type=repositories)** | **[Alle architectuur repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+topic%3Aarchimate&type=repositories)** |
+| **[Alle Informatiemodellen repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+topic%3Ainformatiemodellen&type=repositories)** | **[Alle API-specificatie repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+topic%3Aapi-specification&type=repositories)** | **[Alle StUF repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+topic%3Astuf&type=repositories)** | **[Alle architectuur repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+topic%3Aarchimate&type=repositories)** |
 
 Aanvullend zijn er diverse ontwikkelingen op het gebied van standaarden en Common Ground.
 
@@ -19,4 +19,4 @@ Aanvullend zijn er diverse ontwikkelingen op het gebied van standaarden en Commo
 | [ftv](https://github.com/VNG-Realisatie/ftv) |
 | [authzen-nlgov](https://github.com/VNG-Realisatie/authzen-nlgov) |
 | [authorization-decision-log](https://github.com/VNG-Realisatie/authorization-decision-log) |
-| **[Alle overige repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+-topic%3Aapi-specification+-topic%3Aarchimate+-topic%3Astuf&type=repositories)** |
+| **[Alle overige repositories](https://github.com/VNG-Realisatie?q=org%3AVNG-Realisatie+archived%3Afalse+-topic%3Ainformatiemodellen+-topic%3Aapi-specification+-topic%3Aarchimate+-topic%3Astuf&type=repositories)** |
